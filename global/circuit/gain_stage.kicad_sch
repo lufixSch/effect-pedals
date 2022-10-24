@@ -529,7 +529,7 @@
   (symbol (lib_id "Device:R_Potentiometer") (at 111.76 64.77 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 265c55b9-092f-43b6-854c-624d56a9b5df)
-    (property "Reference" "Gain1" (id 0) (at 111.76 70.485 90))
+    (property "Reference" "Gain1" (id 0) (at 111.76 69.85 90))
     (property "Value" "10k" (id 1) (at 111.76 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )

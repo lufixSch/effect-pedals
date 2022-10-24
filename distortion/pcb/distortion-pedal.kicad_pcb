@@ -2575,7 +2575,7 @@
   (gr_text "Tone" (at 206.5782 57.2262) (layer "F.SilkS") (tstamp 4f73a8c3-2c31-498b-ab37-bca78ac49f57)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Level" (at 198 58.7) (layer "F.SilkS") (tstamp 67389218-23d9-4f4c-b814-245bdd0e6282)
+  (gr_text "Level" (at 198 60.8) (layer "F.SilkS") (tstamp 67389218-23d9-4f4c-b814-245bdd0e6282)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "Gain" (at 189.3824 57.2262) (layer "F.SilkS") (tstamp dfda5422-0c88-4155-9ca2-23da0eaf3020)
@@ -2605,7 +2605,7 @@
   (dimension (type aligned) (layer "F.Fab") (tstamp cf991401-e9c9-4212-bd86-dc2ae29b7073)
     (pts (xy 216 29.9466) (xy 216 123))
     (height -6.9612)
-    (gr_text "93.0534 mm" (at 221.8112 76.4733 90) (layer "F.Fab") (tstamp 452b8dd8-6477-4801-a8db-58a4ccaac2ac)
+    (gr_text "93.0534 mm" (at 221.8112 76.4733 90) (layer "F.Fab") (tstamp cf991401-e9c9-4212-bd86-dc2ae29b7073)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
@@ -2721,8 +2721,8 @@
   (zone (net 0) (net_name "") (layers "F.Cu" "In1.Cu" "In2.Cu" "B.Cu") (tstamp 628082d8-3d82-4070-9d51-1ca810799f29) (hatch edge 0.508)
     (connect_pads yes (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.254) (thermal_bridge_width 0.508) (smoothing fillet) (radius 0.5))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
+    (fill (thermal_gap 0.254) (thermal_bridge_width 0.508))
     (polygon
       (pts
         (xy 205.825 37)
