@@ -900,7 +900,9 @@
     (in_bom yes) (on_board yes)
     (uuid 2cb0d796-7e0c-4414-81c9-dcaeba343011)
     (property "Reference" "C9" (id 0) (at 38.1 70.485 90))
-    (property "Value" "C" (id 1) (at 38.1 67.945 90))
+    (property "Value" "C" (id 1) (at 38.1 67.945 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 41.91 63.1698 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1050,7 +1052,7 @@
   (symbol (lib_id "Device:C") (at 71.755 85.09 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8086bab7-7dd2-4a38-97a8-11275acbbd45)
-    (property "Reference" "CF2" (id 0) (at 67.31 82.55 0)
+    (property "Reference" "CF1" (id 0) (at 67.31 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "C" (id 1) (at 67.945 87.63 0)
@@ -1620,7 +1622,7 @@
       (reference "CD1") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/8086bab7-7dd2-4a38-97a8-11275acbbd45"
-      (reference "CF2") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "CF1") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/d2d7e7c8-e99d-4eb5-90cd-b5a50b0ad1d8"
       (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-123")
