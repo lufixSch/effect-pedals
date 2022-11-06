@@ -107,8 +107,8 @@
         "min_copper_edge_clearance": 0.01,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.0,
-        "min_microvia_drill": 0.0,
+        "min_microvia_diameter": 0.19999999999999998,
+        "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.08889999999999999,
@@ -451,6 +451,10 @@
     [
       "00ea9668-13f6-4f16-8a70-327481c2e23a",
       "IO"
+    ],
+    [
+      "ba5ce591-bab6-4a4e-a26c-dee07b815b67",
+      "Input Stage"
     ]
   ],
   "text_variables": {}
