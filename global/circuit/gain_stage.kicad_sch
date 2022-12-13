@@ -560,7 +560,7 @@
     (property "Value" "10k" (id 1) (at 111.76 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 111.76 64.77 0)
+    (property "Footprint" "effect_pedal:potentiometer_wired_23_connected" (id 2) (at 111.76 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 111.76 64.77 0)
