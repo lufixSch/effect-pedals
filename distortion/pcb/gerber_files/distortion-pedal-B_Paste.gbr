@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8-1)-1*%
-%TF.CreationDate,2022-11-07T15:29:17+01:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.9-0)*%
+%TF.CreationDate,2022-12-16T17:36:52+01:00*%
 %TF.ProjectId,distortion-pedal,64697374-6f72-4746-996f-6e2d70656461,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.8-1)-1) date 2022-11-07 15:29:17*
+G04 Created by KiCad (PCBNEW (6.0.9-0)) date 2022-12-16 17:36:52*
 %MOMM*%
 %LPD*%
 G01*
