@@ -959,7 +959,7 @@
     (uuid 1b6c8834-68d4-4262-9185-c4fb74ffd672)
     (property "Reference" "L1" (id 0) (at 66.04 43.815 90))
     (property "Value" "10uH" (id 1) (at 66.04 46.355 90))
-    (property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 66.04 49.53 0)
+    (property "Footprint" "Inductor_SMD:L_Abracon_ASPI-3012S" (id 2) (at 66.04 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 66.04 49.53 0)
